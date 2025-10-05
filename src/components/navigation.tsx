@@ -23,7 +23,7 @@ export function Navigation() {
           {/* Logo */}
           <div className="flex-shrink-0 animate-scale-in">
             <Image
-              src="/aygit_logo.png"
+              src="/aygıt_logo.png"
               alt="Aygıt Logo"
               width={200}
               height={70}
